@@ -1,0 +1,37 @@
+assignment_2_12413650//problem_8.py:# Rock-Paper-Scissors by Vaidas Razgaitis
+assignment_2_12413650//problem_8.py:    # error check on user input string
+assignment_2_12413650//problem_8.py:    # Outcome: USER VICTORY 
+assignment_2_12413650//problem_8.py:    # Outcome: COMPUTER VICTORY
+assignment_2_12413650//problem_8.py:    # Outcome: TIE
+assignment_2_12413650//problem_8.py:        # recursively call the funciton to play again
+assignment_2_12413650//problem_7.py:# draw a pyramid of height n by Vaidas Razgaitis
+assignment_2_12413650//problem_7.py:    # range starts at the 0 index, correct for this with +1
+assignment_2_12413650//module-2-debugging.py:# Find all the errors in this program and correct them. The program should be error free and run without any issues.
+assignment_2_12413650//module-2-debugging.py:# Ask the user what they would like to eat
+assignment_2_12413650//module-2-debugging.py:# calculate cost of the order 
+assignment_2_12413650//module-2-debugging.py:# Print the choice and the cost
+assignment_2_12413650//problem_3.py:    3. Contains at least one special character: !,@,#,$,%
+assignment_2_12413650//problem_3.py:# CONDITION 1
+assignment_2_12413650//problem_3.py:# CONDITION 2
+assignment_2_12413650//problem_3.py:# CONDITION 3
+assignment_2_12413650//problem_3.py:contains_special_character = True if '!' in password or '@' in password or '#' in password or '$' in password or '%' in password else False
+assignment_2_12413650//problem_3.py:# scan password for uppercase and lowercase letters
+assignment_2_12413650//problem_3.py:        # CONDITION 4
+assignment_2_12413650//problem_3.py:# DEBUGGING CHECKS
+assignment_2_12413650//problem_3.py:# print(f'valid length: {valid_length}')
+assignment_2_12413650//problem_3.py:# print(f'valid numbers and letters: {contains_letters_and_numbers}')
+assignment_2_12413650//problem_3.py:# print(f'special chars: {contains_special_character}')
+assignment_2_12413650//problem_3.py:# print(f'capital and lower case letters: {contains_capital_and_lower}')
+assignment_2_12413650//problem_2.py:# Score calculation program by Vaidas Razgaitis.
+assignment_2_12413650//problem_2.py:    # return the proper grade if the score is in the correct range
+assignment_2_12413650//problem_2.py:    # user input is a string with values that aren't digits 
+assignment_2_12413650//problem_6.py:# Palindrome checker by Vaidas Razgaitis
+assignment_2_12413650//problem_6.py:# parse input to remove spaces
+assignment_2_12413650//problem_1.py:# Temperature converter program by Vaidas Razgaitis.
+assignment_2_12413650//problem_1.py:    # the number is negative, or at least a string that begins with -
+assignment_2_12413650//problem_1.py:    # user input is a positive whole number as required 
+assignment_2_12413650//problem_1.py:    # user input is a string with values that aren't digits 
+assignment_2_12413650//problem_5.py:# divisible by 11 by Vaidas Razgaitis
+assignment_2_12413650//problem_4.py:# MAX function by Vaidas Razgaitis
+assignment_2_12413650//problem_4.py:# take user inputs
+assignment_2_12413650//problem_4.py:# get max
