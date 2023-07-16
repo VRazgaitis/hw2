@@ -7,9 +7,8 @@ def rock_paper_scissors():
     computer_choice = random.choice(choices)
 
     # error check on user input string
-    if user_choice not in choices:
-        print("You must choose rock, paper, or scissors.")
-        return
+    while user_choice not in choices:
+        user_choice = input("Please input only <rock/paper/scissors>: ").lower()
     
     # Outcome: USER VICTORY 
     if user_choice == "rock" and computer_choice == "scissors":
